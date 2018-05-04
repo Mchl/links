@@ -23,6 +23,7 @@
 
 # Node.js
 
+* [AWS ServerLess Express](https://github.com/awslabs/aws-serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
 * [Node JS Feature Flags](https://featureflags.io/node-js-feature-flags/)
 
 # React
