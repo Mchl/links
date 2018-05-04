@@ -9,6 +9,7 @@
 
 # Books
 
+* [Ilya Grigorik: High Performance Browser Networking](https://hpbn.co/)
 * [Daniel Stenberg: http2 explained](https://legacy.gitbook.com/book/bagder/http2-explained/details)
 * [Human Redux](https://reduxbook.com/)
 * [Programming Notes for Professional](http://goalkicker.com/) - Based on retired StackOverflow docs
