@@ -1,6 +1,11 @@
 # Articles
 
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
+* [AI/ML vs 'properly written SQL' - a Twitter thread](https://threadreaderapp.com/thread/987602838594445312.html)
+
+# Blogs
+
+* [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - on functional programming
 
 # Books
 
@@ -38,6 +43,14 @@
 
 * [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)
 
+# Vim
+
+* [VimCasts.org](http://vimcasts.org/) - Learn Vim at your own pace with [...] self-study Core Vim Course.
+
 # WebDev
 
 * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+
+# Work
+
+* [UpWork](https://www.upwork.com/)
