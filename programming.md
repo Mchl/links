@@ -2,6 +2,7 @@
 
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
 * [AI/ML vs 'properly written SQL' - a Twitter thread](https://threadreaderapp.com/thread/987602838594445312.html)
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 # Blogs
 
