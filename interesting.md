@@ -2,6 +2,7 @@
 
 * [ATOMIC ROCKETSHIPS OF THE SPACE PATROL
 or "So You Wanna Build A Rocket?"](http://www.projectrho.com/public_html/rocket/) - turns out it's just like apple pie - you must first invent the universe
+* [Wikipedia map template](https://upload.wikimedia.org/wikipedia/commons/b/b2/Maps_template-en.svg)
 
 # Psychology
 
