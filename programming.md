@@ -37,6 +37,11 @@
 * [Christian Maher: Working with Simplex Noise](https://cmaher.github.io/posts/working-with-simplex-noise/)
 * [Martin O'Leary: Generating fantasy maps](http://mewo2.com/notes/terrain/) - These are some notes on how I generate the maps for my Twitter bot @unchartedatlas
 
+# Puzzles
+
+* [CodeWars](https://www.codewars.com)
+* [CodinGame](https//www.codingame.com)
+
 # React
 
 * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
