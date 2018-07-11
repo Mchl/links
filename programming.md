@@ -31,7 +31,11 @@
 
 * [AWS ServerLess Express](https://github.com/awslabs/aws-serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
 * [Node JS Feature Flags](https://featureflags.io/node-js-feature-flags/)
-* [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/)  
+* [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/)
+
+## Libraries
+
+* [Terminus: Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications](https://github.com/godaddy/terminus)
 
 # Procedural Generation
 
