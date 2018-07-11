@@ -5,6 +5,7 @@
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Tim Roberts: Iteration: A Gentle Introduction to Functional Programming](https://medium.com/@BeardedTim/iteration-a-gentle-introduction-to-functional-programming-c59fcb0ab58d)
 * [Eric Elliot: Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+* [Cache replacement policies (Wikipedia)](https://en.wikipedia.org/wiki/Cache_replacement_policies)
 
 # Blogs
 
@@ -21,6 +22,11 @@
 # JavaScript/ECMAScript
 
 * [How to escape async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+
+# Learning platforms
+
+* [egghead.io](https://egghead.io/)
+* [Scotch.io](https://scotch.io/)
 
 # Lists
 
