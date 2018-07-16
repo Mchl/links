@@ -19,6 +19,10 @@
 * [Programming Notes for Professional](http://goalkicker.com/) - Based on retired StackOverflow docs
 * [Kyle Simpson: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+# GraphQL
+
+* [Apollo](https://www.apollographql.com/) - Build a universal GraphQL API on top of your existing REST APIs, so you can ship new application features fast without waiting on backend changes.
+
 # JavaScript/ECMAScript
 
 * [How to escape async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
@@ -42,6 +46,11 @@
 ## Libraries
 
 * [Terminus: Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications](https://github.com/godaddy/terminus)
+
+## Servers
+* [Express - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
+* [koa - next generation web framework for node.js](https://koajs.com/)
+* [nest - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.](https://nestjs.com/)
 
 # Procedural Generation
 
