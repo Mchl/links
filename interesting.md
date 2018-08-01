@@ -6,6 +6,10 @@
 
 * [Astrobaza - radomskie obserwatorium astronomiczne](http://astrobaza.radom.pl/)
 
+# Maps
+
+* [European Electrical Grids (OSM based)](https://ebin.josm.pl/electricity/)
+
 # Procedural generation source material
 
 * [ATOMIC ROCKETSHIPS OF THE SPACE PATROL
