@@ -42,6 +42,7 @@
 * [AWS ServerLess Express](https://github.com/awslabs/aws-serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
 * [Node JS Feature Flags](https://featureflags.io/node-js-feature-flags/)
 * [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/)
+* [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 
 ## Libraries
 
