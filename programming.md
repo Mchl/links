@@ -82,6 +82,10 @@
 
 * [Slobodan Stojanović: Scheduling Slack messages using AWS Lambda](https://medium.freecodecamp.org/scheduling-slack-messages-using-aws-lambda-e56a8eb22818)
 
+# Tools
+
+* [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
+
 # Videos
 
 * [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)
