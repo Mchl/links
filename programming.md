@@ -37,6 +37,10 @@
 * [Every Programmer Should Know 🤔](https://github.com/mtdvio/every-programmer-should-know)
 * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) - A curated list of awesome falsehoods programmers believe in. With more lists
 
+# Networking
+
+* [How HTTPS works... in a comic](https://howhttps.works/)
+
 # Node.js
 
 * [AWS ServerLess Express](https://github.com/awslabs/aws-serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway
