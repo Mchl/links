@@ -50,7 +50,8 @@
 * [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/)
 * [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
 * [AWS Lambda and the Node.js Event Loop](https://medium.com/radient-tech-blog/aws-lambda-and-the-node-js-event-loop-864e48fba49)
-* [https://codefresh.io/docker-tutorial/debug_node_in_docker/](https://codefresh.io/docker-tutorial/debug_node_in_docker/)
+* [Debug Node in Docker](https://codefresh.io/docker-tutorial/debug_node_in_docker/)
+* [Smart load controlling in a Node.js app](https://medium.com/dailyjs/qp-smart-load-controlling-in-a-node-js-app-c641ff0fed98)
 
 
 ## Libraries
