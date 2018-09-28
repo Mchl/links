@@ -96,6 +96,7 @@
 
 * [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
 * [Practical tmux](https://mutelight.org/practical-tmux)
+* [Tmuxinator layout export](https://gist.github.com/gomesar/f9c32463a8abbe02470b9934eeb09db5)
 
 # Videos
 
