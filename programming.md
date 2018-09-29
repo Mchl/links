@@ -116,6 +116,10 @@
 * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
 * [Web Performance Made Easy: Google I/O 2018 edition](https://developers.google.com/web/updates/2018/08/web-performance-made-easy)
 
+# WebSockets
+
+* [A curated list of WebSockets related principles and technologies.](https://github.com/facundofarias/awesome-websockets)
+
 # Work
 
 * [UpWork](https://www.upwork.com/)
