@@ -105,6 +105,7 @@
 # Videos
 
 * [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)
+* [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 
 # Vim
 
