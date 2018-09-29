@@ -77,6 +77,10 @@
 
 * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 
+## Libraries
+
+* [React + D3 = vx](https://vx-demo.now.sh/)
+
 # Redux
 
 * [Five Tips for Working with Redux in Large Applications](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
