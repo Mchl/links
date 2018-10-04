@@ -18,3 +18,4 @@
 
 * [High Definition Software	Defined Radio](http://www.hdsdr.de/hardware.html) - some interesting links in Hardware section
 * [F4DAN: List of SDR projects](http://f4dan.free.fr/sdr_eng.html)
+* [SdrDx –OS X and Windows SDR Software](http://fyngyrz.com/?p=915)
