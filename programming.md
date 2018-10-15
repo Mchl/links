@@ -96,6 +96,7 @@
 # ServerLess
 
 * [Slobodan Stojanović: Scheduling Slack messages using AWS Lambda](https://medium.freecodecamp.org/scheduling-slack-messages-using-aws-lambda-e56a8eb22818)
+* [Announcing the AWS Amplify CLI toolchain](https://aws.amazon.com/blogs/mobile/announcing-the-aws-amplify-cli-toolchain/)
 
 # Tools
 
