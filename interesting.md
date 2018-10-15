@@ -14,6 +14,7 @@
 # Game design
 
 * [The Rational Design Handbook: An Intro to RLD](http://www.gamasutra.com/blogs/LukeMcMillan/20130806/197147/The_Rational_Design_Handbook_An_Intro_to_RLD.php)
+* [The Big List of RPG Plots](https://rolltop-indigo.blogspot.com/2018/10/the-big-list-of-rpg-plots.html)
 
 # Maps
 
