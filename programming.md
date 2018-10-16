@@ -77,6 +77,7 @@
 # React
 
 * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+* [Setting up a React app from scratch](https://medium.com/@adamramberg/setting-up-a-react-app-from-scratch-42521a118b10)
 
 ## Libraries
 
