@@ -114,6 +114,7 @@
 
 * [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)
 * [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+* [Computerphile -Essentials: Functional Programming's Y Combinator](https://www.youtube.com/watch?v=9T8A89jgeTI)
 
 # Vim
 
