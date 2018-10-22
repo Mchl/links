@@ -67,7 +67,8 @@
 # Procedural Generation
 
 * [Christian Maher: Working with Simplex Noise](https://cmaher.github.io/posts/working-with-simplex-noise/)
-* [Martin O'Leary: Generating fantasy maps](http://mewo2.com/notes/terrain/) - These are some notes on how I generate the maps for my Twitter bot @unchartedatlas
+* [Martin O'Leary: Generating fantasy maps](http://mewo2.com/notes/terrain/) - These are some notes on how I generate the maps for my Twitter bot @unchartedatlas)
+* [Delaunay+Voronoi on a sphere](https://www.redblobgames.com/x/1842-delaunay-voronoi-sphere/)
 
 # Puzzles
 
