@@ -80,6 +80,7 @@
 
 * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 * [Setting up a React app from scratch](https://medium.com/@adamramberg/setting-up-a-react-app-from-scratch-42521a118b10)
+* [React Diagrams - a super simple, no-nonsense diagramming library written in react that just works](https://github.com/projectstorm/react-diagrams)
 
 ## UI Frameworks
 
