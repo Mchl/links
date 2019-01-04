@@ -16,6 +16,11 @@
 * [The Rational Design Handbook: An Intro to RLD](http://www.gamasutra.com/blogs/LukeMcMillan/20130806/197147/The_Rational_Design_Handbook_An_Intro_to_RLD.php)
 * [The Big List of RPG Plots](https://rolltop-indigo.blogspot.com/2018/10/the-big-list-of-rpg-plots.html)
 
+# History
+
+* [B-58 Voice Warning Messages](http://palamar.com/projects/b-58/B-58_Voice_Warning_Messages.htm) - Recorded by Joan Elms and nicknamed 'Sexy Sally'
+  * [Air-Minded: Bitchin’ Betty](http://pwoodford.net/blog/?p=18410)
+
 # Maps
 
 * [European Electrical Grids (OSM based)](https://ebin.josm.pl/electricity/)
