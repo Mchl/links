@@ -109,10 +109,15 @@
 # Tools
 
 * [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
-* [Practical tmux](https://mutelight.org/practical-tmux)
-* [Tmuxinator layout export](https://gist.github.com/gomesar/f9c32463a8abbe02470b9934eeb09db5)
 * [i3 - X11 Tiling Windows Manager](https://i3wm.org/)
 * [Amethyst - OSX Tiling Windows Manager](https://github.com/ianyh/Amethyst)
+
+## Tmux
+
+* [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+* [Practical tmux](https://mutelight.org/practical-tmux)
+* [Tmuxinator layout export](https://gist.github.com/gomesar/f9c32463a8abbe02470b9934eeb09db5)
+
 
 # Videos
 
