@@ -20,4 +20,4 @@
 
 # NAS
 
-* [XPenlogy - bootloader for Synology’s operating system](https://xpenology.org/}
+* [XPenlogy - bootloader for Synology’s operating system](https://xpenology.org/)
