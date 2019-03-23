@@ -22,6 +22,8 @@
 
 * [B-58 Voice Warning Messages](http://palamar.com/projects/b-58/B-58_Voice_Warning_Messages.htm) - Recorded by Joan Elms and nicknamed 'Sexy Sally'
   * [Air-Minded: Bitchin’ Betty](http://pwoodford.net/blog/?p=18410)
+* [Antarctic Snow Cruiser](https://en.wikipedia.org/wiki/Antarctic_Snow_Cruiser)  
+  * [Detailed 3D model](https://www.renderosity.com/mod/bcs/antarctic-snow-cruiser/118199)
 
 # Maps
 
