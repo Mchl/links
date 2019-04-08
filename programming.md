@@ -19,6 +19,17 @@
 * [Programming Notes for Professional](http://goalkicker.com/) - Based on retired StackOverflow docs
 * [Kyle Simpson: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+# Docker
+
+* Learn Enough Docker to be Useful
+  * [Part 1: The Conceptual Landscape](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+  * [Part 2: A Delicious Dozen Docker Terms You Need to Know](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
+  * [Part 3: A Dozen Dandy Dockerfile Instructions
+](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5)
+  * [Part 4: Slimming Down Your Docker Images](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
+  * [Part 5: 15 Docker Commands You Should Know](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
+  * [Part 6: Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
+
 # GraphQL
 
 * [Apollo](https://www.apollographql.com/) - Build a universal GraphQL API on top of your existing REST APIs, so you can ship new application features fast without waiting on backend changes.
