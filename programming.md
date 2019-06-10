@@ -113,6 +113,11 @@
   
   in particular [Idiomatic Redux](http://blog.isquaredsoftware.com/series/idiomatic-redux/)
   
+# Regular Expressions
+
+* [Regular-Expressions.info](https://www.regular-expressions.info/)
+* [Debuggex - Visual regexp debugger](https://www.debuggex.com/)
+  
 # ServerLess
 
 * [Slobodan Stojanović: Scheduling Slack messages using AWS Lambda](https://medium.freecodecamp.org/scheduling-slack-messages-using-aws-lambda-e56a8eb22818)
