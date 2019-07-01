@@ -13,6 +13,7 @@
 # Raspberry Pi
 
 * [Balena Etcher](https://www.balena.io/etcher/) - SD flashing tool
+* [You Get Signal](https://www.yougetsignal.com/tools/open-ports/) - check your public IP and test your ports
 
 # Weather
 
