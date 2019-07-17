@@ -155,6 +155,7 @@
 * [Web Performance Made Easy: Google I/O 2018 edition](https://developers.google.com/web/updates/2018/08/web-performance-made-easy)
 * [Rhythm in web typography](https://betterwebtype.com/rhythm-in-web-typography)
 * [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
+* [Humane By Design](https://humanebydesign.com) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
 
 # WebSockets
 
