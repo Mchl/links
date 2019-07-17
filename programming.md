@@ -10,6 +10,7 @@
 # Blogs
 
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - on functional programming
+* [The Clean Code Blog](http://blog.cleancoder.com/) - by Robert C. Martin (Uncle Bob)
 
 # Books
 
