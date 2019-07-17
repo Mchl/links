@@ -87,6 +87,7 @@
 
 * [CodeWars](https://www.codewars.com)
 * [CodinGame](https//www.codingame.com)
+* [A little JavaScript problem](http://lisperator.net/blog/a-little-javascript-problem/) - an excersise in functional programming. Not necessarily in JS
 
 # React
 
