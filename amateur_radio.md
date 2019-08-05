@@ -20,6 +20,10 @@
 * [F4DAN: List of SDR projects](http://f4dan.free.fr/sdr_eng.html)
 * [SdrDx –OS X and Windows SDR Software](http://fyngyrz.com/?p=915)
 
+# Tools
+
+* [Air Link](https://link.ui.com/#) - LOS simulator
+
 # Tuners
 
 * [SG-230 Smartuner - Installation and Operations Manual](http://www.sgcworld.com/Publications/Manuals/230man.pdf) - CG-3000 is a clone of this
