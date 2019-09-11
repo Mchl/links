@@ -42,7 +42,9 @@
 
 # Learning platforms
 
+* [A Cloud Guru](https://acloud.guru)
 * [egghead.io](https://egghead.io/)
+* [Frontend Masters](https://frontendmasters.com/)
 * [Scotch.io](https://scotch.io/)
 
 # Lists
