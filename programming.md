@@ -19,6 +19,7 @@
 * [Human Redux](https://reduxbook.com/)
 * [Programming Notes for Professional](http://goalkicker.com/) - Based on retired StackOverflow docs
 * [Kyle Simpson: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [The Book of Shaders](https://thebookofshaders.com/)
 
 # Docker
 
