@@ -69,6 +69,7 @@
 * [AWS Lambda and the Node.js Event Loop](https://medium.com/radient-tech-blog/aws-lambda-and-the-node-js-event-loop-864e48fba49)
 * [Debug Node in Docker](https://codefresh.io/docker-tutorial/debug_node_in_docker/)
 * [Smart load controlling in a Node.js app](https://medium.com/dailyjs/qp-smart-load-controlling-in-a-node-js-app-c641ff0fed98)
+* [Node best practices](https://github.com/goldbergyoni/nodebestpractices}
 
 
 ## Libraries
