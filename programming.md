@@ -46,6 +46,7 @@
 * [egghead.io](https://egghead.io/)
 * [Frontend Masters](https://frontendmasters.com/)
 * [Scotch.io](https://scotch.io/)
+* [KataCoda](https://www.katacoda.com/learn)
 
 # Lists
 
