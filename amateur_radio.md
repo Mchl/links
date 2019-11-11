@@ -6,6 +6,7 @@
 # Antennas
 
 * [IZ2UUF: Great spaces: longwire or dipole?](http://www.iz2uuf.net/wp/index.php/2016/04/26/great-spaces-longwire-or-dipole/)
+* [Multi-band end-fed antenna](https://www.nonstopsystems.com/radio/frank_radio_antenna_multiband_end-fed.htm)
 
 # Baluns
 
