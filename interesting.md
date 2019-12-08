@@ -18,12 +18,13 @@
 * [The Rational Design Handbook: An Intro to RLD](http://www.gamasutra.com/blogs/LukeMcMillan/20130806/197147/The_Rational_Design_Handbook_An_Intro_to_RLD.php)
 * [The Big List of RPG Plots](https://rolltop-indigo.blogspot.com/2018/10/the-big-list-of-rpg-plots.html)
 
-# History
+# Historic Vehicles
 
 * [B-58 Voice Warning Messages](http://palamar.com/projects/b-58/B-58_Voice_Warning_Messages.htm) - Recorded by Joan Elms and nicknamed 'Sexy Sally'
   * [Air-Minded: Bitchin’ Betty](http://pwoodford.net/blog/?p=18410)
 * [Antarctic Snow Cruiser](https://en.wikipedia.org/wiki/Antarctic_Snow_Cruiser)  
   * [Detailed 3D model](https://www.renderosity.com/mod/bcs/antarctic-snow-cruiser/118199)
+* [ZIL-49061](https://www.trucksplanet.com/catalog/model.php?id=2218) - Soviet/Russian kosmonaut retrieval vehicle
 
 # Maps
 
