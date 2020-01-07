@@ -1,3 +1,7 @@
+# Architecture
+
+* [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
+
 # Articles
 
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
@@ -71,6 +75,9 @@
 * [Debug Node in Docker](https://codefresh.io/docker-tutorial/debug_node_in_docker/)
 * [Smart load controlling in a Node.js app](https://medium.com/dailyjs/qp-smart-load-controlling-in-a-node-js-app-c641ff0fed98)
 * [Node best practices](https://github.com/goldbergyoni/nodebestpractices}
+* Naugtur's stuff
+  * [Node Examples](https://github.com/naugtur/node-examples)
+  * [Simple customizable testing for APIs defined with OpenAPI v3 spec](https://github.com/naugtur/openapi3-tester)
 
 
 ## Libraries
@@ -162,6 +169,7 @@
 * [Rhythm in web typography](https://betterwebtype.com/rhythm-in-web-typography)
 * [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
 * [Humane By Design](https://humanebydesign.com) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
+* [A Business Case for Dropping Internet Explorer](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/)
 
 # WebSockets
 
