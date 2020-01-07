@@ -15,6 +15,10 @@
 * [Balena Etcher](https://www.balena.io/etcher/) - SD flashing tool
 * [You Get Signal](https://www.yougetsignal.com/tools/open-ports/) - check your public IP and test your ports
 
+# Smart home
+
+* [Homey app for Xiaomi Mi Robot Vacuum Cleaner](https://github.com/jghaanstra/com.robot.xiaomi-mi)
+
 # Weather
 
 * [Pogoda w Warszawie](http://warszawa.infometeo.pl/)
