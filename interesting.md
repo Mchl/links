@@ -26,6 +26,11 @@
   * [Detailed 3D model](https://www.renderosity.com/mod/bcs/antarctic-snow-cruiser/118199)
 * [ZIL-49061](https://www.trucksplanet.com/catalog/model.php?id=2218) - Soviet/Russian kosmonaut retrieval vehicle
 
+# Lockpicking
+
+* [The Opeb Locksport Guide](http://lockpickernetwork.wikidot.com/)
+* [Lockpicking for beginners](https://locklab.com/category/lock-picking-for-beginners/)
+
 # Maps
 
 * [European Electrical Grids (OSM based)](https://ebin.josm.pl/electricity/)
