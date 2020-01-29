@@ -170,6 +170,7 @@
 * [Styling a Select Like It’s 2019](https://www.filamentgroup.com/lab/select-css.html)
 * [Humane By Design](https://humanebydesign.com) - A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.
 * [A Business Case for Dropping Internet Explorer](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/)
+* [Tiny Helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers...
 
 # WebSockets
 
