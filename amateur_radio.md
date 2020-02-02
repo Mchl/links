@@ -2,6 +2,7 @@
 
 * [NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
   * [Reviews on RTL-SDR blog](rtl-sdr.com/reviews-of-the-nanovna-an-ultra-low-cost-50-vector-network-analyzer/)
+  * [Calibration procedure](https://groups.io/g/nanovna-users/attachment/896/0/NanoVNA%20Calibration%20Considerations%20and%20Procedure%20FINAL.pdf)
 
 # Antennas
 
