@@ -152,7 +152,7 @@
 
 # Videos
 
-* [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)
+* [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [Computerphile -Essentials: Functional Programming's Y Combinator](https://www.youtube.com/watch?v=9T8A89jgeTI)
 * [Philip Roberts: What the heck is the event loop anyway? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
