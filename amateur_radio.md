@@ -37,6 +37,7 @@
 * [mcHF QRP transceiver](http://www.m0nka.co.uk/?page_id=740) 
   * Clone on Aliexpress: R928
 * [TX-500](https://lab599.com/)
+* [Q900](http://radioaficion.com/news/q900-sdr-transceiver/)
 
 # Tuners
 
