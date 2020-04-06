@@ -16,6 +16,7 @@
 # DMR
 * [SP5DRS: Contact list generator for GD-77](http://gd77.sp5drs.xyz/)
   * [GitHub](https://github.com/satanowski/cnt4gd77)
+* [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77) - Open source firmware for the Radioddity GD-77
 * [DMRConfig](https://github.com/sergev/dmrconfig) - Linux/OSX DMR programming utility. Works with no problems with OSX and GD-77
 
 # Dummy load
