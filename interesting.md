@@ -8,6 +8,7 @@
 * [Retro And Futuristic Illustrations By James Gilleard](https://designyoutrust.com/2018/10/retro-and-futuristic-illustrations-by-james-gilleard/)
 * [The art of Matt Ferguson](https://www.cakesandcomics.com/) - Movie posters
 * [“Under” – Europe’s First Underwater Restaurant](https://snohetta.com/projects/428-under-europes-first-underwater-restaurant)
+* [You can be sure...if it's Westinghouse](https://repository.duke.edu/dc/adaccess/R0623) - an old, somehow intriguing ad
 
 # Astronomy
 
