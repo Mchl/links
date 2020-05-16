@@ -58,3 +58,7 @@
 # Tuners
 
 * [SG-230 Smartuner - Installation and Operations Manual](http://www.sgcworld.com/Publications/Manuals/230man.pdf) - CG-3000 is a clone of this
+
+# Videos
+
+* [AT&T Archives: Similiarities of Wave Behavior (Bonus Edition)](https://www.youtube.com/watch?v=DovunOxlY1k) - transmission lines, SWR and impedance coupling explained on mechanical model
