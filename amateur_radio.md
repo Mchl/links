@@ -1,3 +1,9 @@
+# Activities
+
+* [Global Mountain Activity](https://www.cqgma.org/)
+* [Short-Wave.info](https://short-wave.info/) - short wave broadcast catalogue
+* [Utility Dxers Forum](http://udxf.nl/)
+
 # Analyzers
 
 * [NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
