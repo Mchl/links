@@ -9,9 +9,10 @@
 * [IZ2UUF: Great spaces: longwire or dipole?](http://www.iz2uuf.net/wp/index.php/2016/04/26/great-spaces-longwire-or-dipole/)
 * [Multi-band end-fed antenna](https://www.nonstopsystems.com/radio/frank_radio_antenna_multiband_end-fed.htm)
 
-# Baluns
+# Baluns & chokes
 
 * [VK5AJL: Baluns](http://vk5ajl.com/projects/baluns.php)
+* [G3TXQ: Common-mode chokes](http://www.karinya.net/g3txq/chokes)
 
 # DMR
 * [SP5DRS: Contact list generator for GD-77](http://gd77.sp5drs.xyz/)
@@ -28,6 +29,10 @@
 * [High Definition Software	Defined Radio](http://www.hdsdr.de/hardware.html) - some interesting links in Hardware section
 * [F4DAN: List of SDR projects](http://f4dan.free.fr/sdr_eng.html)
 * [SdrDx –OS X and Windows SDR Software](http://fyngyrz.com/?p=915)
+
+# Software
+
+* [HamClock](http://clearskyinstitute.com/ham/HamClock)
 
 # Tools
 
