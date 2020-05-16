@@ -40,7 +40,7 @@
 
 * [HamClock](http://clearskyinstitute.com/ham/HamClock)
 * Raspberry Pi
-  * [DL1GKK setup](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/]
+  * [DL1GKK setup](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/)
   * [WA9ONY projects](http://www.stargazing.net/david/RPi/hrrpi.html)
 
 # Tools
