@@ -45,6 +45,7 @@ or "So You Wanna Build A Rocket?"](http://www.projectrho.com/public_html/rocket/
 # Programming
 
 * [StarLogo TNG is a downloadable programming environment that lets students and teachers create 3D games and simulations for understanding complex systems.](https://education.mit.edu/portfolio_page/starlogo-tng/)
+* [Amelia Wattenberger](https://wattenberger.com/) - I write code, think about data, and create digital experiences.
 
 # Psychology
 
