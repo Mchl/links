@@ -15,6 +15,7 @@
 * [Balena Etcher](https://www.balena.io/etcher/) - SD flashing tool
 * [You Get Signal](https://www.yougetsignal.com/tools/open-ports/) - check your public IP and test your ports
 * [Compute Module IO Board Plus from Waveshare](https://www.waveshare.com/compute-module-io-board-plus.htm)
+* [How to run x86 on ARM](https://www.novaspirit.com/2019/04/15/run-x86-arm/)
 
 # Smart home
 
