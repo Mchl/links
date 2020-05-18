@@ -11,6 +11,7 @@
 * [Engaging Data - FIRE calculator](https://engaging-data.com/fire-calculator/)
 * [Engaging Data - Longevity vs FIRE goals](https://engaging-data.com/will-money-last-retire-early/)
 * [Financier](https://blog.financier.io/) - freeish and open source YNAB clone
+* [Reversing the YNAB file format - Part 1: JSON Structure](https://jack.codes/projects/2016/09/13/reversing-the-ynab-file-format-part-1/)
   
 # Running an online business
 
