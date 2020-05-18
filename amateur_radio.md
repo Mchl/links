@@ -62,3 +62,4 @@
 # Videos
 
 * [AT&T Archives: Similiarities of Wave Behavior (Bonus Edition)](https://www.youtube.com/watch?v=DovunOxlY1k) - transmission lines, SWR and impedance coupling explained on mechanical model
+* [Wireless Institute of Australia Historical QSL Card Collection](https://www.youtube.com/watch?v=7zusmQQaoIk)
