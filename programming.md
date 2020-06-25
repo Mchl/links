@@ -25,6 +25,12 @@
 * [Kyle Simpson: You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [The Book of Shaders](https://thebookofshaders.com/)
 
+# Cloud
+
+## Tools
+
+* [CloudSkew](https://www.cloudskew.com/) - draw pretty cloud architecture diagrams
+
 # Docker
 
 * Learn Enough Docker to be Useful
