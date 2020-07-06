@@ -54,6 +54,8 @@
   * Clone on Aliexpress: R928
 * [TX-500](https://lab599.com/)
 * [Q900](http://radioaficion.com/news/q900-sdr-transceiver/)
+* [SW-3B](https://www.venus-itech.com/product/sw-3b-qrp-cw-transceiver/) - QRP Transciever
+* [Mountain Toppers](https://www.lnrprecision.com/mountain-toppers/) - Lightweight CW QRP
 
 # Tuners
 
