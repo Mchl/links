@@ -13,6 +13,7 @@
 * [Financier](https://blog.financier.io/) - freeish and open source YNAB clone
 * [Reversing the YNAB file format - Part 1: JSON Structure](https://jack.codes/projects/2016/09/13/reversing-the-ynab-file-format-part-1/)
   
-# Running an online business
+# Running a business
 
  * [How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo](https://blog.inkdrop.info/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820)
+ * [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/)
