@@ -57,6 +57,10 @@
 * [SW-3B](https://www.venus-itech.com/product/sw-3b-qrp-cw-transceiver/) - QRP Transciever
 * [Mountain Toppers](https://www.lnrprecision.com/mountain-toppers/) - Lightweight CW QRP
 
+## Yeasu FT-450(D)
+
+* [Power connector](https://www.jst-mfg.com/product/detail_e.php?series=264) - JST VL connector - 12AWG, 20A, 600V
+
 # Tuners
 
 * [SG-230 Smartuner - Installation and Operations Manual](http://www.sgcworld.com/Publications/Manuals/230man.pdf) - CG-3000 is a clone of this
