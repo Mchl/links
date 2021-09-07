@@ -30,6 +30,11 @@
 
 * [National Stock Number(NSN): 5985-01-034-8226 ](http://www.webflis.us/webflis.aspx?NSN=5985-01-034-8226)
 
+# Power
+
+* [Powerpole Power Distribution](https://powerwerx.com/powerpole-power-distribution)
+* [K0BG Wiring manual](http://www.k0bg.com/wiring.html)
+
 # SDR
 
 * [High Definition Software	Defined Radio](http://www.hdsdr.de/hardware.html) - some interesting links in Hardware section
