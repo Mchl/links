@@ -33,3 +33,7 @@
 # NAS
 
 * [XPenlogy - bootloader for Synology’s operating system](https://xpenology.org/)
+
+# Software
+
+* [Kinguin](https://www.kinguin.net) - supposedly valid and legal software keys in good prices
